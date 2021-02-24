@@ -12,3 +12,8 @@ Perguntas a serem respondidas.
 7. Se o usuário for mulher, o imc é acima ou abaixo
 da média?
 8. Se for homem, com mais de 50 anos e da região Sudeste, o gasto é maior ou menor que a média de gastos da região?
+
+
+# Dashboard Final
+
+![alt text](https://github.com/GumaFernando/PlanoDeSaude/blob/main/lab2.PNG)
